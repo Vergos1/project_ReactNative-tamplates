@@ -1,0 +1,9 @@
+<svg width="71" height="40" viewBox="0 0 71 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Rectangle 1929" d="M0 14C0 6.26801 6.26801 0 14 0H57C64.732 0 71 6.26801 71 14V26C71 33.732 64.732 40 57 40H14C6.26801 40 0 33.732 0 26V14Z" fill="url(#paint0_radial_1681_224)"/>
+<defs>
+<radialGradient id="paint0_radial_1681_224" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(4.5 1.66667) rotate(31.0188) scale(74.3875 65.9091)">
+<stop stop-color="#F8B469"/>
+<stop offset="1" stop-color="#FF876D"/>
+</radialGradient>
+</defs>
+</svg>
