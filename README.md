@@ -1,6 +1,8 @@
 # React Native Templates - Collection of Elegant UI Components
 
-![React Native Templates Preview](./preview/preview.jpg)
+<p align="center">
+  <img src="./preview/preview.jpg" alt="React Native Templates Preview">
+</p>
 
 Welcome to the React Native Templates project! This repository is a curated collection of elegant and reusable UI components designed for React Native applications. Enhance your mobile app development with these ready-to-use templates, ensuring a seamless and visually appealing user experience.
 
